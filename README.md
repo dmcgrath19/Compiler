@@ -1,2 +1,3 @@
 # Compiler
-Working Compiler in VHDL
+MicroCoded Instruction Set Processor 
+![Image of Compiler](diagram.png)
