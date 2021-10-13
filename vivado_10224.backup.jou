@@ -1,0 +1,11 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun Jan  3 23:07:36 2021
+# Process ID: 10224
+# Current directory: U:/CSU22022/ActualProject
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8588 U:\CSU22022\ActualProject\ActualProject.xpr
+# Log file: U:/CSU22022/ActualProject/vivado.log
+# Journal file: U:/CSU22022/ActualProject\vivado.jou
+#-----------------------------------------------------------sstart_guioopen_project U:/CSU22022/ActualProject/ActualProject.xpruupdate_compile_order -fileset sources_1
